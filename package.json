@@ -1,0 +1,13 @@
+{
+  "name": "pol-liga",
+  "version": "1.0.0",
+  "description": "Wikipedia crawler for polish 1 Liga/Extraklasa stats",
+  "main": "index.js",
+  "author": "Matthias Hryniszak",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "json-server": "^0.13.0"
+  }
+}
