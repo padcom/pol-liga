@@ -50,6 +50,64 @@ stats.seasons
   .map((team, index) => ({
     id: index + 1,
     name: team,
-    seasons: stats.seasons.filter(season => season.table.findIndex(t => t.name == team) != -1).map(season => season.id)
+    seasons: stats.seasons.filter(season => season.table.findIndex(t => t.name == team) != -1).map(season => season.id),
+    total: {
+      points: stats.seasons
+        .map(season => {
+          const index = season.table.findIndex(t => t.name == team)
+          return index != -1 ? season.table[index].points : 0
+        })
+        .reduce((acc, val) => acc + val),
+      goals: {
+        scored: stats.seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 && season.table[index].goals ? season.table[index].goals.scored : 0
+          })
+          .reduce((acc, val) => acc + val),
+        conceded: stats.seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 && season.table[index].goals ? season.table[index].goals.conceded : 0
+          })
+          .reduce((acc, val) => acc + val),
+        },
+      wins: stats.seasons
+        .map(season => {
+          const index = season.table.findIndex(t => t.name == team)
+          return index != -1 && season.table[index].wins ? season.table[index].wins : 0
+        })
+        .reduce((acc, val) => acc + val),
+      draws: stats.seasons
+        .map(season => {
+          const index = season.table.findIndex(t => t.name == team)
+          return index != -1 && season.table[index].draws ? season.table[index].draws : 0
+        })
+        .reduce((acc, val) => acc + val),
+      losses: stats.seasons
+        .map(season => {
+          const index = season.table.findIndex(t => t.name == team)
+          return index != -1 && season.table[index].losses ? season.table[index].losses : 0
+        })
+        .reduce((acc, val) => acc + val),
+      beniamin: stats.seasons
+        .map(season => {
+          const index = season.table.findIndex(t => t.name == team)
+          return index != -1 && index == 0 ? 1 : 0
+        })
+        .reduce((acc, val) => acc + val),
+      winner: stats.seasons
+        .map(season => {
+          const index = season.table.findIndex(t => t.name == team)
+          return index != -1 && index == 0 ? 1 : 0
+        })
+        .reduce((acc, val) => acc + val),
+      downfall: stats.seasons
+        .map(season => {
+          const index = season.table.findIndex(t => t.name == team)
+          return index != -1 && season.table[index].dawnfall == 0 ? 1 : 0
+        })
+        .reduce((acc, val) => acc + val),
+    },
   }))
   .forEach(team => { console.log(JSON.stringify(team, null, 2)) })

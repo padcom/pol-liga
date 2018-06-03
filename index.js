@@ -43,7 +43,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(7).text(),
       goals: {
         scored: $(row).find('td').eq(6).text().split('-')[0],
@@ -61,7 +61,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(9).text(),
       goals: {
         scored: $(row).find('td').eq(6).text(),
@@ -94,7 +94,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(5).text(),
       draws: $(row).find('td').eq(6).text(),
-      loses: $(row).find('td').eq(7).text(),
+      losses: $(row).find('td').eq(7).text(),
       points: $(row).find('td').eq(3).text(),
       goals: {
         scored: $(row).find('td').eq(4).text().split('–')[0],
@@ -113,7 +113,7 @@ const converters = [
       points: $(row).find('td').eq(3).text(),
       wins: $(row).find('td').eq(5).text().split('-')[0],
       draws: $(row).find('td').eq(5).text().split('-')[1],
-      loses: $(row).find('td').eq(5).text().split('-')[2],
+      losses: $(row).find('td').eq(5).text().split('-')[2],
       goals: {
         scored: $(row).find('td').eq(4).text().split('-')[0],
         conceded: $(row).find('td').eq(4).text().split('-')[1],
@@ -161,7 +161,7 @@ const converters = [
       points: $(row).find('td').eq(3).text(),
       wins: $(row).find('td').eq(4).text(),
       draws: $(row).find('td').eq(5).text(),
-      loses: $(row).find('td').eq(6).text(),
+      losses: $(row).find('td').eq(6).text(),
       goals: {
         scored: $(row).find('td').eq(7).text().split('–')[0],
         conceded: $(row).find('td').eq(7).text().split('–')[1],
@@ -179,7 +179,7 @@ const converters = [
       points: $(row).find('td').eq(3).text(),
       wins: $(row).find('td').eq(4).text(),
       draws: $(row).find('td').eq(5).text(),
-      loses: $(row).find('td').eq(6).text(),
+      losses: $(row).find('td').eq(6).text(),
       goals: {
         scored: $(row).find('td').eq(7).text().split('-')[0],
         conceded: $(row).find('td').eq(7).text().split('-')[1],
@@ -196,7 +196,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(7).text(),
       goals: {
         scored: $(row).find('td').eq(6).text().split('–')[0],
@@ -214,7 +214,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(9).text(),
       goals: {
         scored: $(row).find('td').eq(6).text(),
@@ -232,7 +232,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(9).text(),
       goals: {
         scored: $(row).find('td').eq(6).text(),
@@ -250,7 +250,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(7).text(),
       goals: {
         scored: $(row).find('td').eq(6).text().split('-')[0],
@@ -268,7 +268,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(7).text(),
       goals: {
         scored: $(row).find('td').eq(6).text().split('–')[0],
@@ -286,7 +286,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(7).text(),
       goals: {
         scored: $(row).find('td').eq(6).text().split('–')[0],
@@ -304,7 +304,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(7).text(),
       goals: {
         scored: $(row).find('td').eq(6).text().split('-')[0],
@@ -322,7 +322,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(9).text(),
       goals: {
         scored: $(row).find('td').eq(6).text(),
@@ -340,7 +340,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(9).text(),
       goals: {
         scored: $(row).find('td').eq(6).text(),
@@ -358,7 +358,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(9).text(),
       goals: {
         scored: $(row).find('td').eq(6).text(),
@@ -376,7 +376,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(9).text(),
       goals: {
         scored: $(row).find('td').eq(6).text(),
@@ -394,7 +394,7 @@ const converters = [
       matches: $(row).find('td').eq(2).text(),
       wins: $(row).find('td').eq(3).text(),
       draws: $(row).find('td').eq(4).text(),
-      loses: $(row).find('td').eq(5).text(),
+      losses: $(row).find('td').eq(5).text(),
       points: $(row).find('td').eq(9).text(),
       goals: {
         scored: $(row).find('td').eq(6).text(),
@@ -421,7 +421,8 @@ for (let year = 1014; year <= 2018; year++) {
       .then(rows => rows.map(converter.extract).get())
       // create season data entry
       .then(table => ({
-        id: converter.season(year),
+        id: converter.season(year).replace('/', '-'),
+        season: converter.season(year),
         year,
         table: table
           .filter(team => team.name !== '')
@@ -482,6 +483,64 @@ Promise.all(promises).then(seasons => console.log(JSON.stringify({
     .map((team, index) => ({
       id: index + 1,
       name: team,
-      seasons: seasons.filter(season => season.table.findIndex(t => t.name == team) != -1).map(season => season.id)
+      seasons: seasons.filter(season => season.table.findIndex(t => t.name == team) != -1).map(season => season.id),
+      total: {
+        points: seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 ? season.table[index].points : 0
+          })
+          .reduce((acc, val) => acc + val),
+        goals: {
+          scored: seasons
+            .map(season => {
+              const index = season.table.findIndex(t => t.name == team)
+              return index != -1 && season.table[index].goals ? season.table[index].goals.scored : 0
+            })
+            .reduce((acc, val) => acc + val),
+          conceded: seasons
+            .map(season => {
+              const index = season.table.findIndex(t => t.name == team)
+              return index != -1 && season.table[index].goals ? season.table[index].goals.conceded : 0
+            })
+            .reduce((acc, val) => acc + val),
+          },
+        wins: seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 && season.table[index].wins ? season.table[index].wins : 0
+          })
+          .reduce((acc, val) => acc + val),
+        draws: seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 && season.table[index].draws ? season.table[index].draws : 0
+          })
+          .reduce((acc, val) => acc + val),
+        losses: seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 && season.table[index].losses ? season.table[index].losses : 0
+          })
+          .reduce((acc, val) => acc + val),
+        beniamin: seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 && index == 0 ? 1 : 0
+          })
+          .reduce((acc, val) => acc + val),
+        winner: seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 && index == 0 ? 1 : 0
+          })
+          .reduce((acc, val) => acc + val),
+        downfall: seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 && season.table[index].dawnfall == 0 ? 1 : 0
+          })
+          .reduce((acc, val) => acc + val),
+      },
     })),
 }, null, 2)))
