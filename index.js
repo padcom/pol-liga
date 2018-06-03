@@ -483,7 +483,9 @@ Promise.all(promises).then(seasons => console.log(JSON.stringify({
     .map((team, index) => ({
       id: index + 1,
       name: team,
-      seasons: seasons.filter(season => season.table.findIndex(t => t.name == team) != -1).map(season => season.id),
+      seasons: seasons
+        .map(season => ({ id: season.id, place: season.table.findIndex(t => t.name == team) + 1 }))
+        .filter(season => season.place > 0),
       total: {
         points: seasons
           .map(season => {
@@ -521,24 +523,6 @@ Promise.all(promises).then(seasons => console.log(JSON.stringify({
           .map(season => {
             const index = season.table.findIndex(t => t.name == team)
             return index != -1 && season.table[index].losses ? season.table[index].losses : 0
-          })
-          .reduce((acc, val) => acc + val),
-        beniamin: seasons
-          .map(season => {
-            const index = season.table.findIndex(t => t.name == team)
-            return index != -1 && index == 0 ? 1 : 0
-          })
-          .reduce((acc, val) => acc + val),
-        winner: seasons
-          .map(season => {
-            const index = season.table.findIndex(t => t.name == team)
-            return index != -1 && index == 0 ? 1 : 0
-          })
-          .reduce((acc, val) => acc + val),
-        downfall: seasons
-          .map(season => {
-            const index = season.table.findIndex(t => t.name == team)
-            return index != -1 && season.table[index].dawnfall == 0 ? 1 : 0
           })
           .reduce((acc, val) => acc + val),
       },

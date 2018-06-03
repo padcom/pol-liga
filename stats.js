@@ -50,7 +50,9 @@ stats.seasons
   .map((team, index) => ({
     id: index + 1,
     name: team,
-    seasons: stats.seasons.filter(season => season.table.findIndex(t => t.name == team) != -1).map(season => season.id),
+    seasons: stats.seasons
+      .map(season => ({ id: season.id, place: season.table.findIndex(t => t.name == team) + 1 }))
+      .filter(season => season.place > 0),
     total: {
       points: stats.seasons
         .map(season => {
