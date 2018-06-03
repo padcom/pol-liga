@@ -493,6 +493,12 @@ Promise.all(promises).then(seasons => console.log(JSON.stringify({
             return index != -1 ? season.table[index].points : 0
           })
           .reduce((acc, val) => acc + val),
+        matches: seasons
+          .map(season => {
+            const index = season.table.findIndex(t => t.name == team)
+            return index != -1 ? season.table[index].matches : 0
+          })
+          .reduce((acc, val) => acc + val),
         goals: {
           scored: seasons
             .map(season => {

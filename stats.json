@@ -17577,16 +17577,14 @@
       ],
       "total": {
         "points": 3,
+        "matches": 22,
         "goals": {
           "scored": 15,
           "conceded": 73
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     },
     {
@@ -17632,16 +17630,14 @@
       ],
       "total": {
         "points": 172,
+        "matches": 173,
         "goals": {
           "scored": 296,
           "conceded": 285
         },
         "wins": 32,
         "draws": 20,
-        "losses": 31,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 31
       }
     },
     {
@@ -17691,16 +17687,14 @@
       ],
       "total": {
         "points": 450,
+        "matches": 304,
         "goals": {
           "scored": 389,
           "conceded": 345
         },
         "wins": 124,
         "draws": 78,
-        "losses": 102,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 102
       }
     },
     {
@@ -17766,16 +17760,14 @@
       ],
       "total": {
         "points": 413,
+        "matches": 434,
         "goals": {
           "scored": 434,
           "conceded": 559
         },
         "wins": 124,
         "draws": 125,
-        "losses": 185,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 185
       }
     },
     {
@@ -17797,16 +17789,14 @@
       ],
       "total": {
         "points": 51,
+        "matches": 74,
         "goals": {
           "scored": 79,
           "conceded": 144
         },
         "wins": 14,
         "draws": 16,
-        "losses": 22,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 22
       }
     },
     {
@@ -17844,16 +17834,14 @@
       ],
       "total": {
         "points": 186,
+        "matches": 210,
         "goals": {
           "scored": 184,
           "conceded": 247
         },
         "wins": 64,
         "draws": 61,
-        "losses": 85,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 85
       }
     },
     {
@@ -17875,16 +17863,14 @@
       ],
       "total": {
         "points": 52,
+        "matches": 66,
         "goals": {
           "scored": 75,
           "conceded": 122
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     },
     {
@@ -18010,16 +17996,14 @@
       ],
       "total": {
         "points": 777,
+        "matches": 771,
         "goals": {
           "scored": 999,
           "conceded": 1088
         },
         "wins": 181,
         "draws": 152,
-        "losses": 236,
-        "beniamin": 2,
-        "winner": 2,
-        "downfall": 0
+        "losses": 236
       }
     },
     {
@@ -18037,16 +18021,14 @@
       ],
       "total": {
         "points": 14,
+        "matches": 36,
         "goals": {
           "scored": 29,
           "conceded": 97
         },
         "wins": 0,
         "draws": 0,
-        "losses": 18,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 18
       }
     },
     {
@@ -18092,16 +18074,14 @@
       ],
       "total": {
         "points": 406,
+        "matches": 266,
         "goals": {
           "scored": 385,
           "conceded": 311
         },
         "wins": 112,
         "draws": 70,
-        "losses": 84,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 84
       }
     },
     {
@@ -18151,16 +18131,14 @@
       ],
       "total": {
         "points": 185,
+        "matches": 205,
         "goals": {
           "scored": 321,
           "conceded": 365
         },
         "wins": 18,
         "draws": 12,
-        "losses": 23,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 23
       }
     },
     {
@@ -18218,16 +18196,14 @@
       ],
       "total": {
         "points": 471,
+        "matches": 375,
         "goals": {
           "scored": 422,
           "conceded": 463
         },
         "wins": 130,
         "draws": 96,
-        "losses": 149,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 149
       }
     },
     {
@@ -18241,16 +18217,14 @@
       ],
       "total": {
         "points": 19,
+        "matches": 30,
         "goals": {
           "scored": 24,
           "conceded": 43
         },
         "wins": 8,
         "draws": 8,
-        "losses": 14,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 14
       }
     },
     {
@@ -18356,16 +18330,14 @@
       ],
       "total": {
         "points": 872,
+        "matches": 736,
         "goals": {
           "scored": 878,
           "conceded": 804
         },
         "wins": 275,
         "draws": 229,
-        "losses": 232,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 232
       }
     },
     {
@@ -18387,16 +18359,14 @@
       ],
       "total": {
         "points": 86,
+        "matches": 90,
         "goals": {
           "scored": 105,
           "conceded": 113
         },
         "wins": 28,
         "draws": 30,
-        "losses": 32,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 32
       }
     },
     {
@@ -18410,16 +18380,14 @@
       ],
       "total": {
         "points": 19,
+        "matches": 22,
         "goals": {
           "scored": 34,
           "conceded": 54
         },
         "wins": 7,
         "draws": 5,
-        "losses": 10,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 10
       }
     },
     {
@@ -18457,16 +18425,14 @@
       ],
       "total": {
         "points": 201,
+        "matches": 223,
         "goals": {
           "scored": 231,
           "conceded": 331
         },
         "wins": 64,
         "draws": 56,
-        "losses": 103,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 103
       }
     },
     {
@@ -18480,16 +18446,14 @@
       ],
       "total": {
         "points": 23,
+        "matches": 26,
         "goals": {
           "scored": 17,
           "conceded": 37
         },
         "wins": 6,
         "draws": 5,
-        "losses": 15,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 15
       }
     },
     {
@@ -18527,16 +18491,14 @@
       ],
       "total": {
         "points": 128,
+        "matches": 152,
         "goals": {
           "scored": 182,
           "conceded": 264
         },
         "wins": 10,
         "draws": 3,
-        "losses": 9,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 9
       }
     },
     {
@@ -18570,16 +18532,14 @@
       ],
       "total": {
         "points": 154,
+        "matches": 180,
         "goals": {
           "scored": 190,
           "conceded": 243
         },
         "wins": 52,
         "draws": 55,
-        "losses": 73,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 73
       }
     },
     {
@@ -18805,16 +18765,14 @@
       ],
       "total": {
         "points": 1963,
+        "matches": 1596,
         "goals": {
           "scored": 2337,
           "conceded": 1792
         },
         "wins": 588,
         "draws": 433,
-        "losses": 439,
-        "beniamin": 12,
-        "winner": 12,
-        "downfall": 0
+        "losses": 439
       }
     },
     {
@@ -18828,16 +18786,14 @@
       ],
       "total": {
         "points": 30,
+        "matches": 22,
         "goals": {
           "scored": 50,
           "conceded": 21
         },
         "wins": 13,
         "draws": 4,
-        "losses": 5,
-        "beniamin": 1,
-        "winner": 1,
-        "downfall": 0
+        "losses": 5
       }
     },
     {
@@ -18927,16 +18883,14 @@
       ],
       "total": {
         "points": 489,
+        "matches": 506,
         "goals": {
           "scored": 611,
           "conceded": 664
         },
         "wins": 99,
         "draws": 99,
-        "losses": 134,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 134
       }
     },
     {
@@ -18974,16 +18928,14 @@
       ],
       "total": {
         "points": 254,
+        "matches": 234,
         "goals": {
           "scored": 299,
           "conceded": 284
         },
         "wins": 75,
         "draws": 81,
-        "losses": 78,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 78
       }
     },
     {
@@ -19001,16 +18953,14 @@
       ],
       "total": {
         "points": 37,
+        "matches": 64,
         "goals": {
           "scored": 43,
           "conceded": 121
         },
         "wins": 9,
         "draws": 19,
-        "losses": 36,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 36
       }
     },
     {
@@ -19080,16 +19030,14 @@
       ],
       "total": {
         "points": 506,
+        "matches": 489,
         "goals": {
           "scored": 564,
           "conceded": 672
         },
         "wins": 170,
         "draws": 127,
-        "losses": 192,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 192
       }
     },
     {
@@ -19103,16 +19051,14 @@
       ],
       "total": {
         "points": 26,
+        "matches": 26,
         "goals": {
           "scored": 19,
           "conceded": 18
         },
         "wins": 8,
         "draws": 10,
-        "losses": 8,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 8
       }
     },
     {
@@ -19142,16 +19088,14 @@
       ],
       "total": {
         "points": 113,
+        "matches": 110,
         "goals": {
           "scored": 193,
           "conceded": 175
         },
         "wins": 21,
         "draws": 11,
-        "losses": 12,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 12
       }
     },
     {
@@ -19165,16 +19109,14 @@
       ],
       "total": {
         "points": 27,
+        "matches": 22,
         "goals": {
           "scored": 43,
           "conceded": 29
         },
         "wins": 11,
         "draws": 5,
-        "losses": 6,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 6
       }
     },
     {
@@ -19232,16 +19174,14 @@
       ],
       "total": {
         "points": 461,
+        "matches": 395,
         "goals": {
           "scored": 486,
           "conceded": 529
         },
         "wins": 140,
         "draws": 115,
-        "losses": 140,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 140
       }
     },
     {
@@ -19259,16 +19199,14 @@
       ],
       "total": {
         "points": 39,
+        "matches": 64,
         "goals": {
           "scored": 45,
           "conceded": 110
         },
         "wins": 10,
         "draws": 9,
-        "losses": 45,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 45
       }
     },
     {
@@ -19474,16 +19412,14 @@
       ],
       "total": {
         "points": 1819,
+        "matches": 1486,
         "goals": {
           "scored": 1986,
           "conceded": 1652
         },
         "wins": 576,
         "draws": 391,
-        "losses": 429,
-        "beniamin": 7,
-        "winner": 7,
-        "downfall": 0
+        "losses": 429
       }
     },
     {
@@ -19589,16 +19525,14 @@
       ],
       "total": {
         "points": 647,
+        "matches": 683,
         "goals": {
           "scored": 737,
           "conceded": 890
         },
         "wins": 154,
         "draws": 143,
-        "losses": 206,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 206
       }
     },
     {
@@ -19612,16 +19546,14 @@
       ],
       "total": {
         "points": 40,
+        "matches": 34,
         "goals": {
           "scored": 39,
           "conceded": 58
         },
         "wins": 11,
         "draws": 7,
-        "losses": 16,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 16
       }
     },
     {
@@ -19899,16 +19831,14 @@
       ],
       "total": {
         "points": 2639,
+        "matches": 1908,
         "goals": {
           "scored": 3071,
           "conceded": 1944
         },
         "wins": 791,
         "draws": 421,
-        "losses": 388,
-        "beniamin": 11,
-        "winner": 11,
-        "downfall": 0
+        "losses": 388
       }
     },
     {
@@ -20130,16 +20060,14 @@
       ],
       "total": {
         "points": 1502,
+        "matches": 1448,
         "goals": {
           "scored": 1781,
           "conceded": 1908
         },
         "wins": 383,
         "draws": 349,
-        "losses": 430,
-        "beniamin": 2,
-        "winner": 2,
-        "downfall": 0
+        "losses": 430
       }
     },
     {
@@ -20153,16 +20081,14 @@
       ],
       "total": {
         "points": 22,
+        "matches": 22,
         "goals": {
           "scored": 43,
           "conceded": 48
         },
         "wins": 8,
         "draws": 6,
-        "losses": 8,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 8
       }
     },
     {
@@ -20208,16 +20134,14 @@
       ],
       "total": {
         "points": 220,
+        "matches": 274,
         "goals": {
           "scored": 259,
           "conceded": 372
         },
         "wins": 70,
         "draws": 92,
-        "losses": 112,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 112
       }
     },
     {
@@ -20291,16 +20215,14 @@
       ],
       "total": {
         "points": 408,
+        "matches": 432,
         "goals": {
           "scored": 504,
           "conceded": 540
         },
         "wins": 114,
         "draws": 105,
-        "losses": 143,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 143
       }
     },
     {
@@ -20362,16 +20284,14 @@
       ],
       "total": {
         "points": 489,
+        "matches": 390,
         "goals": {
           "scored": 452,
           "conceded": 545
         },
         "wins": 133,
         "draws": 90,
-        "losses": 167,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 167
       }
     },
     {
@@ -20385,16 +20305,14 @@
       ],
       "total": {
         "points": 29,
+        "matches": 22,
         "goals": {
           "scored": 44,
           "conceded": 29
         },
         "wins": 10,
         "draws": 9,
-        "losses": 3,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 3
       }
     },
     {
@@ -20436,16 +20354,14 @@
       ],
       "total": {
         "points": 220,
+        "matches": 250,
         "goals": {
           "scored": 269,
           "conceded": 317
         },
         "wins": 67,
         "draws": 91,
-        "losses": 92,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 92
       }
     },
     {
@@ -20467,16 +20383,14 @@
       ],
       "total": {
         "points": 104,
+        "matches": 98,
         "goals": {
           "scored": 96,
           "conceded": 136
         },
         "wins": 27,
         "draws": 31,
-        "losses": 40,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 40
       }
     },
     {
@@ -20518,16 +20432,14 @@
       ],
       "total": {
         "points": 270,
+        "matches": 275,
         "goals": {
           "scored": 326,
           "conceded": 376
         },
         "wins": 93,
         "draws": 71,
-        "losses": 111,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 111
       }
     },
     {
@@ -20557,16 +20469,14 @@
       ],
       "total": {
         "points": 144,
+        "matches": 171,
         "goals": {
           "scored": 196,
           "conceded": 250
         },
         "wins": 48,
         "draws": 53,
-        "losses": 70,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 70
       }
     },
     {
@@ -20580,16 +20490,14 @@
       ],
       "total": {
         "points": 15,
+        "matches": 22,
         "goals": {
           "scored": 37,
           "conceded": 53
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     },
     {
@@ -20623,16 +20531,14 @@
       ],
       "total": {
         "points": 107,
+        "matches": 100,
         "goals": {
           "scored": 190,
           "conceded": 160
         },
         "wins": 17,
         "draws": 5,
-        "losses": 18,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 18
       }
     },
     {
@@ -20802,16 +20708,14 @@
       ],
       "total": {
         "points": 1173,
+        "matches": 1211,
         "goals": {
           "scored": 1417,
           "conceded": 1651
         },
         "wins": 378,
         "draws": 330,
-        "losses": 459,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 459
       }
     },
     {
@@ -20849,16 +20753,14 @@
       ],
       "total": {
         "points": 129,
+        "matches": 156,
         "goals": {
           "scored": 186,
           "conceded": 296
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     },
     {
@@ -20984,16 +20886,14 @@
       ],
       "total": {
         "points": 739,
+        "matches": 759,
         "goals": {
           "scored": 934,
           "conceded": 993
         },
         "wins": 152,
         "draws": 165,
-        "losses": 216,
-        "beniamin": 1,
-        "winner": 1,
-        "downfall": 0
+        "losses": 216
       }
     },
     {
@@ -21091,16 +20991,14 @@
       ],
       "total": {
         "points": 736,
+        "matches": 587,
         "goals": {
           "scored": 759,
           "conceded": 834
         },
         "wins": 187,
         "draws": 120,
-        "losses": 190,
-        "beniamin": 1,
-        "winner": 1,
-        "downfall": 0
+        "losses": 190
       }
     },
     {
@@ -21114,16 +21012,14 @@
       ],
       "total": {
         "points": 25,
+        "matches": 30,
         "goals": {
           "scored": 29,
           "conceded": 32
         },
         "wins": 8,
         "draws": 9,
-        "losses": 13,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 13
       }
     },
     {
@@ -21149,16 +21045,14 @@
       ],
       "total": {
         "points": 136,
+        "matches": 136,
         "goals": {
           "scored": 120,
           "conceded": 186
         },
         "wins": 36,
         "draws": 37,
-        "losses": 63,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 63
       }
     },
     {
@@ -21188,16 +21082,14 @@
       ],
       "total": {
         "points": 127,
+        "matches": 146,
         "goals": {
           "scored": 127,
           "conceded": 170
         },
         "wins": 40,
         "draws": 47,
-        "losses": 59,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 59
       }
     },
     {
@@ -21439,16 +21331,14 @@
       ],
       "total": {
         "points": 1871,
+        "matches": 1649,
         "goals": {
           "scored": 2293,
           "conceded": 1993
         },
         "wins": 534,
         "draws": 395,
-        "losses": 472,
-        "beniamin": 7,
-        "winner": 7,
-        "downfall": 0
+        "losses": 472
       }
     },
     {
@@ -21470,16 +21360,14 @@
       ],
       "total": {
         "points": 109,
+        "matches": 90,
         "goals": {
           "scored": 102,
           "conceded": 124
         },
         "wins": 28,
         "draws": 25,
-        "losses": 37,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 37
       }
     },
     {
@@ -21509,16 +21397,14 @@
       ],
       "total": {
         "points": 118,
+        "matches": 87,
         "goals": {
           "scored": 244,
           "conceded": 139
         },
         "wins": 13,
         "draws": 6,
-        "losses": 8,
-        "beniamin": 4,
-        "winner": 4,
-        "downfall": 0
+        "losses": 8
       }
     },
     {
@@ -21532,16 +21418,14 @@
       ],
       "total": {
         "points": 19,
+        "matches": 26,
         "goals": {
           "scored": 45,
           "conceded": 64
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     },
     {
@@ -21555,16 +21439,14 @@
       ],
       "total": {
         "points": 33,
+        "matches": 37,
         "goals": {
           "scored": 34,
           "conceded": 54
         },
         "wins": 6,
         "draws": 15,
-        "losses": 16,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 16
       }
     },
     {
@@ -21586,16 +21468,14 @@
       ],
       "total": {
         "points": 65,
+        "matches": 102,
         "goals": {
           "scored": 88,
           "conceded": 169
         },
         "wins": 19,
         "draws": 24,
-        "losses": 59,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 59
       }
     },
     {
@@ -21613,16 +21493,14 @@
       ],
       "total": {
         "points": 33,
+        "matches": 38,
         "goals": {
           "scored": 55,
           "conceded": 80
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     },
     {
@@ -21772,16 +21650,14 @@
       ],
       "total": {
         "points": 1208,
+        "matches": 1093,
         "goals": {
           "scored": 1307,
           "conceded": 1320
         },
         "wins": 402,
         "draws": 324,
-        "losses": 367,
-        "beniamin": 2,
-        "winner": 2,
-        "downfall": 0
+        "losses": 367
       }
     },
     {
@@ -21795,16 +21671,14 @@
       ],
       "total": {
         "points": 3,
+        "matches": 9,
         "goals": {
           "scored": 14,
           "conceded": 36
         },
         "wins": 1,
         "draws": 1,
-        "losses": 7,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 7
       }
     },
     {
@@ -21822,16 +21696,14 @@
       ],
       "total": {
         "points": 65,
+        "matches": 68,
         "goals": {
           "scored": 74,
           "conceded": 83
         },
         "wins": 20,
         "draws": 25,
-        "losses": 23,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 23
       }
     },
     {
@@ -21849,16 +21721,14 @@
       ],
       "total": {
         "points": 65,
+        "matches": 68,
         "goals": {
           "scored": 54,
           "conceded": 107
         },
         "wins": 16,
         "draws": 17,
-        "losses": 35,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 35
       }
     },
     {
@@ -21960,16 +21830,14 @@
       ],
       "total": {
         "points": 692,
+        "matches": 697,
         "goals": {
           "scored": 794,
           "conceded": 790
         },
         "wins": 228,
         "draws": 210,
-        "losses": 233,
-        "beniamin": 2,
-        "winner": 2,
-        "downfall": 0
+        "losses": 233
       }
     },
     {
@@ -22007,16 +21875,14 @@
       ],
       "total": {
         "points": 160,
+        "matches": 186,
         "goals": {
           "scored": 197,
           "conceded": 251
         },
         "wins": 49,
         "draws": 62,
-        "losses": 75,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 75
       }
     },
     {
@@ -22038,16 +21904,14 @@
       ],
       "total": {
         "points": 50,
+        "matches": 70,
         "goals": {
           "scored": 85,
           "conceded": 138
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     },
     {
@@ -22073,16 +21937,14 @@
       ],
       "total": {
         "points": 103,
+        "matches": 132,
         "goals": {
           "scored": 113,
           "conceded": 173
         },
         "wins": 32,
         "draws": 44,
-        "losses": 56,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 56
       }
     },
     {
@@ -22120,16 +21982,14 @@
       ],
       "total": {
         "points": 278,
+        "matches": 226,
         "goals": {
           "scored": 228,
           "conceded": 273
         },
         "wins": 73,
         "draws": 66,
-        "losses": 87,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 87
       }
     },
     {
@@ -22143,16 +22003,14 @@
       ],
       "total": {
         "points": 22,
+        "matches": 26,
         "goals": {
           "scored": 21,
           "conceded": 42
         },
         "wins": 5,
         "draws": 7,
-        "losses": 14,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 14
       }
     },
     {
@@ -22166,16 +22024,14 @@
       ],
       "total": {
         "points": 32,
+        "matches": 30,
         "goals": {
           "scored": 40,
           "conceded": 54
         },
         "wins": 8,
         "draws": 8,
-        "losses": 14,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 14
       }
     },
     {
@@ -22265,16 +22121,14 @@
       ],
       "total": {
         "points": 527,
+        "matches": 576,
         "goals": {
           "scored": 710,
           "conceded": 801
         },
         "wins": 188,
         "draws": 156,
-        "losses": 232,
-        "beniamin": 1,
-        "winner": 1,
-        "downfall": 0
+        "losses": 232
       }
     },
     {
@@ -22288,16 +22142,14 @@
       ],
       "total": {
         "points": 22,
+        "matches": 26,
         "goals": {
           "scored": 42,
           "conceded": 48
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     },
     {
@@ -22319,16 +22171,14 @@
       ],
       "total": {
         "points": 87,
+        "matches": 111,
         "goals": {
           "scored": 113,
           "conceded": 171
         },
         "wins": 32,
         "draws": 28,
-        "losses": 51,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 51
       }
     },
     {
@@ -22346,16 +22196,14 @@
       ],
       "total": {
         "points": 38,
+        "matches": 52,
         "goals": {
           "scored": 77,
           "conceded": 126
         },
         "wins": 14,
         "draws": 10,
-        "losses": 28,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 28
       }
     },
     {
@@ -22369,16 +22217,14 @@
       ],
       "total": {
         "points": 3,
+        "matches": 12,
         "goals": {
           "scored": 15,
           "conceded": 51
         },
         "wins": 1,
         "draws": 1,
-        "losses": 10,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 10
       }
     },
     {
@@ -22412,16 +22258,14 @@
       ],
       "total": {
         "points": 82,
+        "matches": 98,
         "goals": {
           "scored": 147,
           "conceded": 201
         },
         "wins": 11,
         "draws": 4,
-        "losses": 23,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 23
       }
     },
     {
@@ -22475,16 +22319,14 @@
       ],
       "total": {
         "points": 211,
+        "matches": 237,
         "goals": {
           "scored": 404,
           "conceded": 449
         },
         "wins": 44,
         "draws": 32,
-        "losses": 75,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 75
       }
     },
     {
@@ -22498,16 +22340,14 @@
       ],
       "total": {
         "points": 28,
+        "matches": 22,
         "goals": {
           "scored": 39,
           "conceded": 25
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     },
     {
@@ -22653,16 +22493,14 @@
       ],
       "total": {
         "points": 1319,
+        "matches": 1047,
         "goals": {
           "scored": 1371,
           "conceded": 1200
         },
         "wins": 413,
         "draws": 322,
-        "losses": 286,
-        "beniamin": 4,
-        "winner": 4,
-        "downfall": 0
+        "losses": 286
       }
     },
     {
@@ -22924,16 +22762,14 @@
       ],
       "total": {
         "points": 2243,
+        "matches": 1741,
         "goals": {
           "scored": 2690,
           "conceded": 2002
         },
         "wins": 626,
         "draws": 390,
-        "losses": 417,
-        "beniamin": 11,
-        "winner": 11,
-        "downfall": 0
+        "losses": 417
       }
     },
     {
@@ -22975,16 +22811,14 @@
       ],
       "total": {
         "points": 289,
+        "matches": 246,
         "goals": {
           "scored": 294,
           "conceded": 356
         },
         "wins": 84,
         "draws": 56,
-        "losses": 106,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 106
       }
     },
     {
@@ -23106,16 +22940,14 @@
       ],
       "total": {
         "points": 1079,
+        "matches": 891,
         "goals": {
           "scored": 1097,
           "conceded": 1038
         },
         "wins": 328,
         "draws": 255,
-        "losses": 308,
-        "beniamin": 2,
-        "winner": 2,
-        "downfall": 0
+        "losses": 308
       }
     },
     {
@@ -23233,16 +23065,14 @@
       ],
       "total": {
         "points": 709,
+        "matches": 762,
         "goals": {
           "scored": 886,
           "conceded": 972
         },
         "wins": 226,
         "draws": 192,
-        "losses": 278,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 278
       }
     },
     {
@@ -23268,16 +23098,14 @@
       ],
       "total": {
         "points": 92,
+        "matches": 108,
         "goals": {
           "scored": 86,
           "conceded": 113
         },
         "wins": 30,
         "draws": 32,
-        "losses": 46,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 46
       }
     },
     {
@@ -23339,16 +23167,14 @@
       ],
       "total": {
         "points": 322,
+        "matches": 404,
         "goals": {
           "scored": 441,
           "conceded": 616
         },
         "wins": 117,
         "draws": 87,
-        "losses": 174,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 174
       }
     },
     {
@@ -23362,16 +23188,14 @@
       ],
       "total": {
         "points": 26,
+        "matches": 26,
         "goals": {
           "scored": 48,
           "conceded": 49
         },
         "wins": 0,
         "draws": 0,
-        "losses": 0,
-        "beniamin": 0,
-        "winner": 0,
-        "downfall": 0
+        "losses": 0
       }
     }
   ]
